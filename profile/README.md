@@ -2,7 +2,7 @@
 
 ### Popular repos
 
-- send mails [handle-emails](https://github.com/NodeJSEngineering/handle-emails).
+- https://github.com/NodeJSEngineering/handle-emails
 
 - https://github.com/NodeJSEngineering/serverapp
 
